@@ -1,4 +1,4 @@
-# web3_entrepreneurs_legal_handbook
+# Web3 Entrepreneurs Legal Handbook
 An open source legal handbook for web3 entrepreneurs
 ## Objective
 Navigating the regulatory landscape is a challenge for any entrepreneur who wants to found a project in web3. This repo will act as a central repository of relevant legal information for entrepreneurs to consult when making important decisions about their business. 
